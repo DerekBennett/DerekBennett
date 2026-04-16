@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I am Java and Cloud Native expert with deep experience in the financial industry, especically Commodities.
+Contact me at derek.bennett@gmail.com | linkedin.com/in/derek-bennett-technologist/
+
 <!--
 **DerekBennett/DerekBennett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
